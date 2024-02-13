@@ -11,3 +11,5 @@ To go back to the game, for now it's not sure about what it'll be precisely, atm
 I hope you will enjoy the game
 
 PS: If at any point in the dev you feel the urge to help, don't hesitate ! The project will be free to use and modify.
+
+> Note from the MoutonDemocrate in question : i thinbk dumb political humor is funi :)
