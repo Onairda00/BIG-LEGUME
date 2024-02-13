@@ -9,3 +9,5 @@ I know it's weird, so you know I'm also a woke, I claim this word as my ideology
 
 To go back to the game, for now it's not sure about what it'll be precisely, atm it's a action-platformer with three levels.
 I hope you will enjoy the game
+
+PS: If at any point in the dev you feel the urge to help, don't hesitate ! The project will be free to use and modify.
